@@ -27,6 +27,7 @@ This means, from now on, TensorFlow code can be used and debugged as ordinary py
 
 Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
+
 ### Tasks
 
 1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
@@ -34,7 +35,9 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
 
+
 ## Integration of the Keras API
+
 
 Actually, Keras is one of the greatest APIs on the planet for DeepLearning. Now Keras has been eaten up by TensorFlow. A bit sad, but in reality it doesn't make any difference since nearly everyone used Keras on top of TensorFlow anyway. So let's consider Keras to be part of TensorFlow (or TensorFlow to be part of Keras). The cool thing is, that you now can use the straightforward, and easy to use Keras API and still can claim to be a TensorFlow developer. Yeah, Google made Keras the official high level API of TensorFlow.
 
